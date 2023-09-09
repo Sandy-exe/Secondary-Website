@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 django = "*"
 wikipedia-api = "*"
+openai = "*"
 
 [dev-packages]
 
